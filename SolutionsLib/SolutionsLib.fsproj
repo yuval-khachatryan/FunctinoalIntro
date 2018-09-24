@@ -5,10 +5,20 @@
   </PropertyGroup>
 
   <ItemGroup>
+    <Compile Include="TextProcessing.fsi" />
+    <Compile Include="TextProcessing.fs" />
+    <Compile Include="Curve.fsi" />
+    <Compile Include="Curve.fs" />
+    <Compile Include="Polynomial.fsi" />
+    <Compile Include="Polynomial.fs" />
+    <Compile Include="Multiset.fsi" />
+    <Compile Include="Multiset.fs" />
     <Compile Include="Complex.fsi" />
     <Compile Include="Complex.fs" />
     <Compile Include="Vector.fsi" />
     <Compile Include="Vector.fs" />
+    <Compile Include="Fractals.fsi" />
+    <Compile Include="Fractals.fs" />
   </ItemGroup>
 
 </Project>
